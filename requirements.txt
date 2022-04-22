@@ -14,7 +14,7 @@ Pillow-PIL==0.1.dev0
 pycodestyle==2.6.0
 PyJWT==1.7.1
 pylint==2.5.2
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 PySocks==1.7.1
 pytz==2020.1
 requests==2.24.0
