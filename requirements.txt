@@ -12,7 +12,7 @@ oauthlib==3.1.0
 Pillow==7.1.2
 Pillow-PIL==0.1.dev0
 pycodestyle==2.6.0
-PyJWT==1.7.1
+PyJWT==2.4.0
 pylint==2.5.2
 PyPDF2==1.26.0
 PySocks==1.7.1
